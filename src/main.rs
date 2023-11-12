@@ -23,6 +23,9 @@ fn main() {
     O Rust é uma linguagem de programação que suporta inferência de tipo.
     *Porém a inferência de tipo no Rust ajuda a tornar o código mais conciso e legível,
     enquanto ainda mantém a segurança de tipo que é uma característica fundamental da linguagem.
+    ----
+    Usamos a sintaxe {} para inserir uma variável, dentro de uma STRING.
+    Exemplo: println!("Sua idada atual é: {}.", idade);
 */
 
 /* 
