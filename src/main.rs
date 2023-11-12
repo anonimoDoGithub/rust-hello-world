@@ -8,8 +8,8 @@ fn main() {
     //pais = "Canadá";
 
     println!("Seja bem vindo, {} {}!", nome, sobrenome);
-    println!("Sua idada atual é: {}.", idade);
-    println!("Sua altura atual é: {}.", altura);
+    println!("Sua idada atual é: {}anos.", idade);
+    println!("Sua altura atual é: {}cm.", altura);
     println!("No momento você está aprendendo sobre: [{}] RUST.", estudando);
     println!("Seu país de atual é: {}.", pais);
 }
@@ -25,9 +25,5 @@ fn main() {
     enquanto ainda mantém a segurança de tipo que é uma característica fundamental da linguagem.
     ----
     Usamos a sintaxe {} para inserir uma variável, dentro de uma STRING.
-    Exemplo: println!("Sua idada atual é: {}.", idade);
-*/
-
-/* 
-
+    Exemplo: println!("Sua idada atual é: {}anos.", idade);
 */
