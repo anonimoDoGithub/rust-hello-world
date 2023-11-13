@@ -1,5 +1,5 @@
 fn main() {
-    let velocidade1: u16 = 81;
+    let velocidade1: u16 = 100;
 
     if velocidade1 < 100 && velocidade1 >= 80 {
         println!("Diminua a velocidade!")
